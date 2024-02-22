@@ -1,0 +1,42 @@
+body{
+
+    background-color: blanchedalmond;}
+    
+    h1{
+        background-color: violet;
+        text-align: center;
+        color: darkblue;
+        font-stretch: extra-condensed;
+        width: 350px;
+       margin: 10px 30px 30px 60px;
+    }
+    h2{
+        background-color: darkkhaki;
+        text-align: center;
+        color: black;
+        font-style: oblique;
+        width: 110;
+        margin: 10px 30px ;
+        border-radius: 30%;
+        padding: 20;
+
+    }
+    h3{
+    
+        background-color: hotpink;
+        color: black;
+        font-weight: 200;
+        width: 500;
+        margin: 10px 30px ;
+        border-radius: 20%;
+        padding: 30;
+        display: flex;
+        text-align: left;
+    
+    }
+    img{
+        border-radius: 50%;
+
+
+    }
+}
